@@ -1,0 +1,6 @@
+# Gitで無視したいディレクトリやファイル
+.vscode/
+
+**/__pycache__/
+
+.DS_Store
